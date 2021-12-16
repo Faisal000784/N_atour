@@ -1,0 +1,30 @@
+@import 'abstract/mixins';
+@import 'abstract/variables';
+// Abstract files
+
+@import 'base/animations'; 
+@import 'base/base';         
+@import 'base/typography'; 
+@import 'base/utilities';
+// base files
+
+@import 'components/bg-video';  
+@import 'components/buttons';
+@import 'components/card';
+@import 'components/composition';
+@import 'components/features-box';
+@import 'components/popups.scss';
+@import 'components/form.scss';
+@import 'components/story.scss';
+
+//components files
+
+@import 'layout/footer';
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/navigation';
+//layout files
+     
+@import'pages/home';
+// pages files    
+ 
